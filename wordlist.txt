@@ -1,0 +1,12 @@
+admin
+login
+api
+v1
+v2
+test
+dev
+backup
+dashboard
+config
+uploads
+auth
